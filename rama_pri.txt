@@ -7,4 +7,7 @@ cambios y despues unirla a la version del master.
 Utilizaremos comandos de git como branch, merge, push
 pull y checkout.
 
+Los blogs son la mejor forma de compartir informacion y
+conocimiento. Deberias de crear uno.
+
 Esta es la linea final de la rama principal.
