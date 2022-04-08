@@ -1,4 +1,5 @@
-Este es el titulo de la rama principal de git
+ESTE ES EL TITULO DE LA RAMA
+PRINCIPAL MASTER EN DOS LINEAS.
 
 Este ejercicio es para aprender sobre las ramas en git
 realizaremos una rama llamada cabecera para realizar 
