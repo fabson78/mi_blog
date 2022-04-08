@@ -1,0 +1,9 @@
+Este es el titulo de la rama principal de git
+
+Este ejercicio es para aprender sobre las ramas en git
+realizaremos una rama llamada cabecera para realizar 
+cambios y despues unirla a la version del master.
+Utilizaremos comandos de git como branch, merge, push
+pull y checkout.
+
+Esta es la linea final de la rama principal.
