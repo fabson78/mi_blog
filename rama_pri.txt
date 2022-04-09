@@ -8,6 +8,8 @@ Nuevo titulo mas bonito en rama cabecera.
 ESTA ES LA CABECERA DE LA RAMA CABECERA 
 Y COLOR ROJO.
 
+Esta es la segunda linea nueva desde Github.com
+
 Este ejercicio es para aprender sobre las ramas en git
 realizaremos una rama llamada cabecera para realizar 
 cambios y despues unirla a la version del master.
