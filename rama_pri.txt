@@ -3,7 +3,8 @@ PRINCIPAL MASTER EN DOS LINEAS.
 
 Nuevo titulo mas bonito en rama cabecera.
 
-ESTA ES LA CABECERA DE LA RAMA CABECERA.
+ESTA ES LA CABECERA DE LA RAMA CABECERA
+Y COLOR CAFE.
 
 Este ejercicio es para aprender sobre las ramas en git
 realizaremos una rama llamada cabecera para realizar 
