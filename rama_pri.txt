@@ -10,6 +10,8 @@ Y COLOR ROJO.
 
 Esta es la segunda linea nueva desde Github.com
 
+Esta es la tercera linea pero desde local git.
+
 Este ejercicio es para aprender sobre las ramas en git
 realizaremos una rama llamada cabecera para realizar 
 cambios y despues unirla a la version del master.
