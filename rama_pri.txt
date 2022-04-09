@@ -1,0 +1,20 @@
+ESTE ES EL TITULO DE LA RAMA
+PRINCIPAL MASTER EN DOS LINEAS.
+
+Esta linea es nueva desde Github.com
+
+Nuevo titulo mas bonito en rama cabecera.
+
+ESTA ES LA CABECERA DE LA RAMA CABECERA 
+Y COLOR ROJO.
+
+Este ejercicio es para aprender sobre las ramas en git
+realizaremos una rama llamada cabecera para realizar 
+cambios y despues unirla a la version del master.
+Utilizaremos comandos de git como branch, merge, push
+pull y checkout.
+
+Los blogs son la mejor forma de compartir informacion y
+conocimiento. Deberias de crear uno.
+
+Esta es la linea final de la rama principal.
